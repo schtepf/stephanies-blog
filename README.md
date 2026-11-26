@@ -1,5 +1,11 @@
 # Stephanies Blog
 
+> [!WARNING]
+>
+> Das Blog befindet sich im Aufbau.
+
+
+
 > [!Note]
 >
 > kurze Beschreibung, worum es in dem Blog geht, einfache Navigation, Posts nicht statisch, Entwürfe sichtbar
