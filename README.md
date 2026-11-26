@@ -14,9 +14,9 @@
 
 ### Artikel
 
-- Entwurf: [Burnout](posts/DRAFT_burnout.md)
-- Entwurf: [Coming Out in der Klinik](posts/DRAFT_coming_out_klinik.md)
-- Entwurf: [Transgender, transident oder transsexuell?](posts/DRAFT_transsexuell.md)
+- Entwurf: [Burnout](posts/burnout.md)
+- Entwurf: [Coming Out in der Klinik](posts/coming_out_klinik.md)
+- Entwurf: [Transgender, transident oder transsexuell?](posts/transsexuell.md)
 
 
 
